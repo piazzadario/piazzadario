@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Dario
 
 - 🎓 M.Sc. in Computer Engineering @Politecnico di Torino
-- 💻 Currently working as Mobile Developer @[Young Platform](https://youngplatform.com/)
+- 💻 Currently working as Mobile Developer @[Diveedi-Lab]([https://youngplatform.com/](https://www.diveedi-lab.com/))
 - 😍 Love implementing beautiful UIs
 - 🤔 Curious about new technologies
 
